@@ -2,6 +2,8 @@
 
 **Video demo:** https://drive.google.com/file/d/1-o3EA1OZRPGqbD24pGHOJF66pMwagDic/view?usp=sharing
 
+**Live demo:** https://rawtoready-sprint5.streamlit.app/
+
 **Paper:** [RawtoReady: A Web-Based Automated Tool for Data Cleaning and Preparation](https://doi.org/10.46254/GC03.20250536), 3rd GCC International Conference on IEOM, Tabuk, Saudi Arabia, February 2026 (1st Place, Undergraduate Research Competition)
 
 ## Background
